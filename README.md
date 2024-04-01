@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **aungpyaekyawwiz242@gmail.com**
 
-- 📄 Know about my experiences [https://onedrive.live.com/?cid=0B34FEE40A658E2A&id=B34FEE40A658E2A%21101092&parId=B34FEE40A658E2A%212584&o=OneUp](https://onedrive.live.com/?cid=0B34FEE40A658E2A&id=B34FEE40A658E2A%21101092&parId=B34FEE40A658E2A%212584&o=OneUp)
-
 - ⚡ Fun fact **Porsche 911 GT3 RS**
 
 <h3 align="left">Connect with me:</h3>
