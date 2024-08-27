@@ -18,6 +18,7 @@
   <span class="pl-c1">tools</span>: <span class="pl-kos">[</span><span class="pl-v">React</span><span class="pl-kos">,</span> <span class="pl-v">Redux</span><span class="pl-kos">,</span> <span class="pl-v">Node</span><span class="pl-kos">,
   
   <span class="pl-c1">challenge</span>: <span class="pl-s">"Practice Random Acts Of Kindness."</span>
+  <span class="pl-kos">}</span></pre>
 </div>
 
 
