@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **aungpyaekyawwiz242@gmail.com**
 
-- ⚡ Fun fact **Porsche 911 GT3 RS**
+- ⚡ Every day, it gets a litte easier.
 - [![AungPyae's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aung-IO)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
