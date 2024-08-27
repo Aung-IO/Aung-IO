@@ -5,13 +5,11 @@
 
 - 🌱 I’m currently learning **NextJS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Aung-IO?tab=repositories](https://github.com/Aung-IO?tab=repositories)
-
-- 📝 This is my portfolio [https://aung-io.github.io/](https://aung-io.github.io/)
+- 📝 This is my portfolio [[https://aung-io.github.io/](https://aung-io.github.io/](https://aungpyaekyaw.vercel.app/))
 
 - 💬 Ask me about **React, NextJs**
 
-- 📫 How to reach me **aungpyaekyawwiz242@gmail.com**
+- 📫 How to reach me **aungpyaekyaw.dev@gmail.com**
 
 - ⚡ Every day, it gets a litte easier.
 - [![AungPyae's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aung-IO)](https://github.com/anuraghazra/github-readme-stats)
