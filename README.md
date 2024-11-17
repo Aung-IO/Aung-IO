@@ -1,5 +1,5 @@
 <h1 align="center">✨ Hi, I'm Aung Pyae Kyaw</h1>
-- 🌱 I’m currently learning **Next.js**
+- 🌱 Working with React and also learning React-Native
 
 - 💬 Ask me about **react & Node.js**
 
