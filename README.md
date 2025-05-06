@@ -1,7 +1,7 @@
 <h1 align="center">✨ Hi, I'm Aung Pyae Kyaw</h1>
-- 🌱 Working with React and also learning React-Native
+- 🌱 Working with React and also with Nextjs
 
-- 💬 Ask me about **react & Node.js**
+- 💬 Ask me about **react, Nextjs & Node.js**
 
 - 📫 How to reach me **aungpyaekyaw.dev@gmail.com**
 
